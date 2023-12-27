@@ -34,5 +34,3 @@ elif user == "scissors":
         print("match tie")
 else :
     print("take write input")
-
-# print(list(game)[0])
