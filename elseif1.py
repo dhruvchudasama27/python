@@ -207,6 +207,3 @@ elif male_sign == "aquarius":
         print("Less favourable : may be good, but both of you need to continue to work on the relationship")
     elif female_sign == "taurus" or female_sign == "scorpio":
         print("critical : can be hard to make this relationship progress smoothly")
-
-
-
